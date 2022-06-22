@@ -1,8 +1,8 @@
 # react-example
 
 Urls:
-https://www.youtube.com/watch?v=pDbcC-xSat4
-https://styled-components.com/
-https://www.radix-ui.com/docs/primitives/components/checkbox
-https://react-query.tanstack.com/
-https://nextjs.org/
+<p>https://www.youtube.com/watch?v=pDbcC- </p>
+<p>https://styled-components.com/</p>
+<p>https://www.radix-ui.com/docs/primitives/components/checkbox</p>
+<p>https://react-query.tanstack.com/</p>
+<p>https://nextjs.org/</p>
