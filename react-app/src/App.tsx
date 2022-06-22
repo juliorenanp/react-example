@@ -8,8 +8,8 @@ function App() {
         'Nami'
     ])
 
-    function createMember(){
-        setMember([...crew,'test'])
+    function createMember() {
+        setMember([...crew, 'test'])
     }
 
 
@@ -23,7 +23,9 @@ function App() {
         <p><Onepiece text="Luffy"/></p> 
         <p><Onepiece text="Nami"/></p>  */}
 
-            <button onClick={createMember}>Add caracter</button>
+            <button onClick={createMember} style={{ backgroundColor: '#8257E6', border: 0, padding:'6px 12px', color:'white'}}>
+                Add caracter
+            </button>
         </div>
     )
 }
